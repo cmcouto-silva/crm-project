@@ -4,3 +4,7 @@ seaborn
 ipykernel
 sidetable
 catboost
+lightgbm
+Boruta
+scikit-optimize
+optuna
