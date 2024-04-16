@@ -29,8 +29,8 @@ Links:
 - [REST API](https://crm-api.datargs.com/docs)
 
 GitHub Repositories:
-- [Webapp]([https://crm-app.datargs.com/](https://github.com/cmcouto-silva/crm-app)
-- [REST API]([https://crm-api.datargs.com/docs](https://github.com/cmcouto-silva/crm-api)
+- [Webapp](https://github.com/cmcouto-silva/crm-app)
+- [REST API](https://github.com/cmcouto-silva/crm-api)
 
 Docker images:
 - [Webapp](https://hub.docker.com/repository/docker/cmcoutosilva/crm-app)
