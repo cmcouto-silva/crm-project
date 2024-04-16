@@ -1,0 +1,4 @@
+pycaret[models,tuners]
+pycaret[analytics]
+joblib==1.3
+ipykernel
